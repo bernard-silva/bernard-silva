@@ -21,8 +21,6 @@
 
     ## Contatos
 
-    [![Linkedin
-    Badge](https://img.shields.io/badge/-Bernard%20Cesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-s-8a086331/)](https://www.linkedin.com/in/bernard-s-8a086331/)
+    [![Linkedin Badge](https://img.shields.io/badge/-Bernard%20Cesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-s-8a086331/)](https://www.linkedin.com/in/bernard-s-8a086331/)
 
-    [![Gmail
-    Badge](https://img.shields.io/badge/-Bernard_Cesar-red?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:bernardcs@hotmail.com)](mailto:bernardcs@hotmail.com)
+    [![Gmail Badge](https://img.shields.io/badge/-Bernard_Cesar-red?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:bernardcs@hotmail.com)](mailto:bernardcs@hotmail.com)
