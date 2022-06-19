@@ -1,15 +1,15 @@
 # Hello world! 🌎
 
-- [ ] ✍️ Me chamo Bernard
-- [ ] 📅 Tenho 35 anos
-- [ ] 🌇 Jundiaí / São Paulo / Brasil
-- [ ] 🖥️ Estou iniciando no rumo da programação
-- [ ] 📌 Tenho interesse em:
-- 🖱️ "Codar"
-- 🧮 Matemática
-- 📖 Aprender
+- [ ] ✍️ My name is Bernard
+- [ ] 📅 I'm 35 years old
+- [ ] 🌇 From Jundiaí/São Paulo - Brazil
+- [ ] 🖥️ I'm a new Developer Front End
+- [ ] 📌 I'm interested in:
+- 🖱️  To code
+- 🧮 Play guitar
+- 📖 Always learn
 
-## Conhecimentos em:
+## Knowledge:
 
 - 🏁 JavaScript
 - 📁 Git / GitHub
