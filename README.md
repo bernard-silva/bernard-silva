@@ -5,9 +5,9 @@
 - [ ] 🌇 From Jundiaí/São Paulo - Brazil
 - [ ] 🖥️ I'm a new Developer Front End
 - [ ] 📌 I'm interested in:
-- 🖱️  To code
-- 🧮 Play guitar
-- 📖 Always learn
+- 🖱️  Coding
+- 🧮 Playing guitar
+- 📖 Always learning
 
 ## Knowledge:
 
