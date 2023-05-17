@@ -1,10 +1,10 @@
 # Hello world! 🌎
 
-- [ ] ✍️ My name is Bernard
-- [ ] 📅 I'm 35 years old
-- [ ] 🌇 From Jundiaí/São Paulo - Brazil
-- [ ] 🖥️ I'm a new Developer Front End
-- [ ] 📌 I'm interested in:
+- ✍️ My name is Bernard
+- 📅 I'm 36 years old
+- 🌇 From Jundiaí/São Paulo - Brazil
+- 🖥️ I'm a new Developer Front End
+- 📌 I'm interested in:
 - 🖱️  Coding
 - 🧮 Playing guitar
 - 📖 Always learning
