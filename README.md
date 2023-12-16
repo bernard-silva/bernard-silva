@@ -3,7 +3,7 @@
 - ✍️ My name is Bernard
 - 📅 I'm 36 years old
 - 🌇 From Jundiaí/São Paulo - Brazil
-- 🖥️ I'm a new Developer Front End
+- 🖥️ I am a technology enthusiast, always seeking new knowledge and developing myself more and more
 - 📌 I'm interested in:
    - 🖱️  Coding
    - 🧮 Playing guitar
