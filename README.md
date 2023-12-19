@@ -1,13 +1,13 @@
-# Hello world! 🌎
+# Have u met Bernard?! 🌎
 
-- ✍️ My name is Bernard
-- 📅 I'm 36 years old
-- 🌇 From Jundiaí/São Paulo - Brazil
+- ✍️ Hi, Bernard here!
+- 🌇 From São Paulo - Brazil
 - 🖥️ I am a technology enthusiast, always seeking new knowledge and developing myself more and more
 - 📌 I'm interested in:
    - 🖱️  Coding
    - 🧮 Playing guitar
    - 📖 Always learning
+   - ![image](https://github.com/bernard-silva/bernard-silva/assets/75813997/98bf6ccb-1974-4c4c-b729-33d393ff4ae2) HIMYM fanboy, guilty! hahah
 
 ## Knowledge:
 
