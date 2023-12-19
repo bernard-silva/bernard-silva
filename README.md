@@ -7,11 +7,11 @@
    - 🖱️  Coding
    - 🧮 Playing guitar
    - 📖 Always learning
-   - ![image](https://github.com/bernard-silva/bernard-silva/assets/75813997/98bf6ccb-1974-4c4c-b729-33d393ff4ae2)  HIMYM fanboy, guilty! HAHAH
+   - ![image](https://github.com/bernard-silva/bernard-silva/assets/75813997/b6d8fdbe-89c2-4905-bbee-1a724a23d04d)  HIMYM fanboy, guilty! HAHAH
 
 ## Knowledge:
 
-- 🏁 JavaScript
+- 🏁 HTML/CSS/JavaScript
 - 📁 Git / GitHub
 
 <a href="https://github.com/bernard-silva">
