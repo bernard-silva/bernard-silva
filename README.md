@@ -7,7 +7,7 @@
    - 🖱️  Coding
    - 🧮 Playing guitar
    - 📖 Always learning
-   - ![image](https://github.com/bernard-silva/bernard-silva/assets/75813997/d81ef01c-1d2b-4c62-9726-14ad02b213ce)  HIMYM fanboy, guilty! HAHAH
+   - ![image](https://github.com/bernard-silva/bernard-silva/assets/75813997/4940d408-9bfc-47d4-acc2-024f7ff60bf4)  HIMYM fanboy, guilty! HAHAH
 
 ## Knowledge:
 
